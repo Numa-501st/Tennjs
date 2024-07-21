@@ -1,5 +1,5 @@
 # Tennjs
-A simple JavaScript version of the classic game "Pong" Using Canvas API
+A simple JavaScript version of the classic game "Pong" using Canvas API
 
 
 
@@ -8,7 +8,7 @@ A simple JavaScript version of the classic game "Pong" Using Canvas API
 </div>
 
 # 🎾 Tennjs 
-Tennjs is a 2d game based on the classic game Pong. original idea influenced by the popular arcade game "Alien Invasion."
+Tennjs is a 2D game based on the classic game Pong. original idea influenced by the popular arcade game "Alien Invasion."
 I created this game by following the "JavaScript Crash Course" book and the result is my attempt.  
 
 ## Introduction
